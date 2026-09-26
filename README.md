@@ -1,6 +1,6 @@
 # Async Quotes Scraper
 
-A learning project: scraping quotes from [quotes.toscrape.com](http://quotes.toscrape.com) using two different approaches, with results stored in SQLite.
+Project: scraping quotes from [quotes.toscrape.com](http://quotes.toscrape.com) using two different approaches, with results stored in SQLite.
 
 ## Tech Stack
 
